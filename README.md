@@ -41,6 +41,7 @@
 | [ATM Simulation 💳](https://github.com/santajivhankade/atm-simulation) | Python OOP-based ATM simulator with PIN creation, transactions, and session timeouts | Python, OOP |
 | [Daikibo Factory EDA 📈](https://github.com/santajivhankade/daikibo-telemetry-eda) | Exploratory Data Analysis on factory machine breakdowns using telemetry data (Deloitte simulation) | Tableau, Python, Pandas |
 | [Netflix Data Analysis 📊](https://github.com/santajivhankade/netflix-data-analysis) | Analysis and visualization of Netflix movies and shows dataset | Python, Pandas, Matplotlib |
+| [Pizza Sales Analysis 🍕](https://github.com/santajivhankade/pizzahut_sales_analysis_sql) | Sales insights and business strategies using SQL on pizza order data | SQL, MySQL, Data Analysis |
 
 
 
